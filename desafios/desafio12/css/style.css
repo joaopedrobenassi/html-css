@@ -45,6 +45,9 @@ header a {
 header a:hover {
     text-decoration: underline;
 }
+section p {
+    padding-bottom: 2em;
+}
 section {
     font-family: var(--font3);
     padding-top:  10vh;
